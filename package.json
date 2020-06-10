@@ -1,0 +1,19 @@
+{
+  "name": "desarrollo_web_avanzado_7828",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dbchango/Desarrollo_WEB_Avanzado_7828.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dbchango/Desarrollo_WEB_Avanzado_7828/issues"
+  },
+  "homepage": "https://github.com/dbchango/Desarrollo_WEB_Avanzado_7828#readme"
+}
